@@ -1,2 +1,2 @@
-X = "aaryan"
+X = "congratulations"
 print(X.upper())
